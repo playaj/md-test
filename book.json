@@ -1,1 +1,15 @@
-{}
+{
+    "root": "",
+    "structure.readme": "README.md",
+    "structure.summary": "SUMMARY.md",
+    "title": "md-test",
+    "description": "md-test for publishing to public gitbook https://www.gitbook.com/book/playaj/md-test/details",
+    "author": "kalifr00tz/playaj",
+    "isbn": "",
+    "language": "en",
+    "direction": "ltr",
+    "gitbook": "3.2.0",
+    "plugins": "",
+    "pluginsConfig": {},
+    "theme": ""
+}
